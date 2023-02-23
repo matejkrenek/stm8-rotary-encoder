@@ -3,6 +3,9 @@
 
 #include "stm8s.h"
 
+/**
+ * @brief  Rotary Encoder configuaration
+ */
 typedef struct
 {
     GPIO_Pin_TypeDef clk;
